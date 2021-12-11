@@ -1,0 +1,7 @@
+body {
+    font-size: 15pt;
+    color: blue;
+}
+p {
+  text-shadow: 3px 3px red;
+}
